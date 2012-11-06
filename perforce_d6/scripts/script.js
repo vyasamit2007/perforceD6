@@ -2,3 +2,4 @@
  * 
  */
 alert("hi");
+alert("Welcome");
